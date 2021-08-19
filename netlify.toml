@@ -1,8 +1,7 @@
 [build] 
     publish="build"
     
-    [[redirects]]
+[[redirects]]
   from = "/*"
-  to = "/NotFound"
-    
-    
+  to = "/index.html"
+  status = 200
