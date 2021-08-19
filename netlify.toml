@@ -1,7 +1,16 @@
 [build] 
+<<<<<<< HEAD
     publish="build" 
 
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
+=======
+    publish="build"
+    
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+>>>>>>> 9792a3bdc99a19e3b949ca78772d32c8662573e8
