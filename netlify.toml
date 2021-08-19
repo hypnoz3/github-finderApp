@@ -3,6 +3,6 @@
     
     [[redirects]]
   from = "/*"
-  to = "/components/pages/NotFound.js"
+  to = "/NotFound"
     
     
